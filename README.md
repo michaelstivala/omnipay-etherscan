@@ -13,7 +13,7 @@ $gateway = Omnipay::create('Etherscan');
    
 $gateway->initialize([
     'api_key' => '...',
-    'network' => 'main' // kovan can also be used
+    'network' => 'main' // kovan or ropsten can also be used
 ]);
 ```
 

@@ -1,5 +1,5 @@
 {
-  "name": "financialplugins/omnipay-etherscan",
+  "name": "michaelstivala/omnipay-etherscan",
   "type": "library",
   "description": "Etherscan driver for the Omnipay payment processing library",
   "keywords": [
@@ -8,12 +8,12 @@
     "ethereum",
     "crypto"
   ],
-  "homepage": "https://github.com/financialplugins/omnipay-etherscan",
+  "homepage": "https://github.com/michaelstivala/omnipay-etherscan",
   "license": "MIT",
   "authors": [
     {
       "name": "FinancialPlugins",
-      "email": "info@financialplugins.com"
+      "email": "info@odds.city"
     }
   ],
   "autoload": {
