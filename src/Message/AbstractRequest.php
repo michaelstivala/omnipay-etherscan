@@ -9,6 +9,7 @@ abstract class AbstractRequest extends OmnipayAbstractRequest
     private $endpoints = [
         'main'  => 'https://api.etherscan.io/api',
         'kovan' => 'https://api-kovan.etherscan.io/api',
+        'ropsten' => 'https://api-ropsten.etherscan.io/api',
         'bsc-main' => 'https://api.bscscan.com/api',
         'bsc-test' => 'https://testnet.bscscan.com/api',
         'polygon-main' => 'https://api.polygonscan.com/api',
